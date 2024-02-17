@@ -4,20 +4,20 @@ import { Feature } from '../../components';
 
 const featuresData = [
   {
-    title: 'Improving end distrusts instantly',
-    text: 'From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.'
+    title: 'Melhoras acabam com falta de confiança',
+    text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim.'
   },
   {
-    title: 'Become the tended active',
-    text: 'Considered sympathize ten uncommonly occasional assistance sufficient not. Letter of on become he tended active enable to.'
+    title: 'Se torne mais ativo e produtivo',
+    text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
   },
   {
-    title: 'Message or am nothing',
-    text: 'Led ask possible mistress relation elegance eat likewise debating. By message or am nothing amongst chiefly address.'
+    title: 'Mensagens dinâmicas com a equipe',
+    text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.'
   },
   {
-    title: 'Really boy law county',
-    text: 'Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush..'
+    title: 'Mais velocidade e melhores construções',
+    text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam'
   },
 
 ]
@@ -27,9 +27,9 @@ const Features = () => {
     <div className='gpt3__features section__padding' id='features'>
       <div className='gpt3__features-heading'>
         <h1 className='gradient__text'>
-          The Future is Now and You Just Need To Realize It. Step into Future Today & Make it Happen.
+          O Futuro É Agora, Você Só Precisa Perceber. Entre no Futuro Agora e Faça Acontecer.
         </h1>
-        <p>Request Early Access to Get Started</p>
+        <p>Peça o Early Access para Começar</p>
       </div>
       <div className='gpt3__features-container'>
         {featuresData.map((item,index) => (
